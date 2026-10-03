@@ -1,0 +1,2 @@
+numpy>=1.21
+sounddevice>=0.4.5
